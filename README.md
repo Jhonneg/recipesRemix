@@ -1,2 +1,2 @@
 # recipesRemix
-recipes app made with remix
+Recipes app made with remix, tailwind css and postgres.
