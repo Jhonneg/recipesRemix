@@ -1,3 +1,3 @@
 # Recipes app
 
-recipes app made with remix, tailwind, postgres.
+recipes app made with remix, tailwind, prisma, postgres.
